@@ -1,5 +1,5 @@
 README.md: 
-	echo "# My Project Name" > README.md
+	echo "# Guessinggame by Oleg" > README.md
 	echo -n "- " >> README.md
 	date >> README.md
 	echo -n "- Lines count in guessinggame.sh: " >> README.md
